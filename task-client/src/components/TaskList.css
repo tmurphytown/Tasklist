@@ -1,0 +1,12 @@
+:root {
+    --ion-color-one: #efca08;
+    --ion-color-two: #00a6a6;
+  }
+
+  .ion-color-one {
+    --ion-color-base: var(--ion-color-one);
+  }
+
+  .ion-color-two {
+    --ion-color-base: var(--ion-color-two);
+  }
