@@ -24,6 +24,7 @@ import '@ionic/react/css/display.css';
 import './theme/variables.css';
 import { TaskProvider } from './contexts/TaskProvider';
 
+// Hi
 
 setupIonicReact();
 
